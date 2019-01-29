@@ -9,3 +9,5 @@ library(magic)
 magic(6)
 
 installed.packages()
+
+# Esto lo he añadido yo 
