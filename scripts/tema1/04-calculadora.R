@@ -79,6 +79,8 @@ log(4^6, 4)
 
 choose(5,2)
 
+# ------------
+
 sin(60*pi/180)
 
 cos(60*pi/180)
@@ -241,3 +243,6 @@ z2
 Mod(z2)
 Arg(z2)
 pi/2
+
+use_git_config(user.name = "oohzeus", user.email = "joseantonio.zarandieta@gmail.com")
+
